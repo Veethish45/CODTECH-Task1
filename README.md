@@ -7,7 +7,9 @@ Duration: Dec 12th to Feb 12th 2025
 Mentor:NEHA
 
 
-#Overview of the E-Commerce Project: *E-45shop*
+# Overview of the E-Commerce Project
+
+*E-45shop*
 This project is a simple, front-end-focused e-commerce website designed to showcase products, allow users to add items to their cart, and proceed to checkout. Below is a detailed breakdown:
 
 1. Objective
