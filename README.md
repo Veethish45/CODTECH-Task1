@@ -73,9 +73,10 @@ Enhanced UI:
 Use an external stylesheet or a framework like Bootstrap for advanced styling.
 This project provides a foundation for building a fully functional e-commerce website with room for scalability and future enhancements.
 
+!
 
 
 
 
-
+![1000125198](https://github.com/user-attachments/assets/3539b897-4aeb-47e2-a147-9f47e7bab12d)
 
