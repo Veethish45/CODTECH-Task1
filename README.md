@@ -4,7 +4,7 @@ Company:CODTECH IT SOLUTIONS
 ID:CT12DS3060
 Domain: Software Development 
 Duration: Dec 12th to Feb 12th 2025
-Mentor:NEHA
+Mentor:
 
 
 # Overview of the E-Commerce Project
